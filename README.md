@@ -2,7 +2,7 @@
 
 > A modern, interactive personal profile and real-time quiz web application
 
-**GitHub:** [@Jackksonns](https://github.com/Jackksonns)
+**GitHub:** [Jackson ZHOU](https://github.com/Jackksonns)
 
 **Course Project Notice**  
 This repository is the final project for University of Aberdeen JC2503 (2024-25): Web Application Development.
